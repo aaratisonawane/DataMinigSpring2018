@@ -1,0 +1,47 @@
+1) Why Data Mining?
+
+->We live in a world where vast amounts of data are collected daily. Analyzing such data
+is an important need. With the help of data mining we can meet this need by
+providing tools to discover knowledge from data.
+
+*** Major sources of abundant data -
+Business: Web, e-commerce, transactions, stocks, … 
+Science: Remote sensing, bioinformatics, scientific simulation, … 
+Society and everyone: news, digital cameras, YouTube
+
+
+2) What is data mining?
+->Data mining is the process of discovering interesting patterns and
+knowledge from large amounts of data. The data sources can include databases, data
+warehouses, the Web, other information repositories, or data that are streamed into the
+system dynamically.
+
+
+*****Many people treat data mining as a synonym for another popularly used term,
+knowledge discovery from data, or KDD while others view data mining as merely an
+essential step in the process of knowledge discovery. The knowledge discovery process is
+shown in Figure 1.4 as an iterative sequence of the following steps:
+1. Data cleaning (to remove noise and inconsistent data)
+2. Data integration (where multiple data sources may be combined)
+3. Data selection (where data relevant to the analysis task are retrieved from the
+database)
+4. Data transformation (where data are transformed and consolidated into forms
+appropriate for mining by performing summary or aggregation operations)4
+5. Data mining (an essential process where intelligent methods are applied to extract
+data patterns)
+6. Pattern evaluation (to identify the truly interesting patterns representing knowledge
+based on interestingness measures—see Section 1.4.6)
+7. Knowledge presentation (where visualization and knowledge representation techniques
+are used to present mined knowledge to users)
+
+
+3)Descriptive mining tasks characterize properties of the data in a target data set. 
+Predictive mining tasks perform induction on the current data in order to make predictions.
+
+4) Data Mining Functions 
+1)Generalization - Information integration and data warehouse construction
+Data cleaning, transformation, integration, and multidimensional data model
+2)Association and Correlation Analysis  - 
+3)Classification - Describe and distinguish classes or concepts for future prediction
+4)Cluster Analysis - Group data to form new categories 
+5)Outlier Analysis - Outlier: A data object that does not comply with the general behavior of the data
